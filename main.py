@@ -48,10 +48,10 @@ class InputModel(BaseModel):
 @app.post("/bfhl")
 async def bfhl_endpoint(payload: InputModel):
     try:
-        full_name = os.getenv("FULL_NAME", "John Doe")
-        dob = os.getenv("DOB_DDMMYYYY", "17091999")
-        email = os.getenv("EMAIL", "john@xyz.com")
-        roll = os.getenv("ROLL_NUMBER", "ABCD123")
+        full_name = os.getenv("FULL_NAME", "Akshita Gupta")
+        dob = os.getenv("DOB_DDMMYYYY", "31012004")
+        email = os.getenv("EMAIL", "akshita31012004@gmail.com")
+        roll = os.getenv("ROLL_NUMBER", "22BCE0248")
 
         user_id = build_user_id(full_name, dob)
 
@@ -116,3 +116,4 @@ async def bfhl_endpoint(payload: InputModel):
 @app.get("/")
 async def root():
     return {"status": "ok", "info": "Use POST /bfhl with body {\"data\": [...]}"}
+
