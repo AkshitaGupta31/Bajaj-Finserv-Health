@@ -1,9 +1,9 @@
-#VIT BFHL – FastAPI Implementation
+# VIT BFHL – FastAPI Implementation
 
 This project implements the Bajaj Finserv Health Ltd (BFHL) API assignment using FastAPI and deployed on Render.
 It processes input arrays to classify numbers, alphabets, and special characters, while also computing sums and concatenated strings.
 
-##Live API
+## Live API
 
 Base URL:
 
@@ -14,7 +14,7 @@ Endpoint:
 
 POST /bfhl
 
-##How to Run Locally
+## How to Run Locally
 1. Clone Repo
 git clone <your-repo-url>
 cd <your-repo-name>
@@ -30,7 +30,7 @@ API will be available at:
 
 http://127.0.0.1:8000/bfhl
 
-##Deployment (Render)
+## Deployment (Render)
 
 Push repo to GitHub.
 
@@ -87,7 +87,10 @@ Response:
 <img width="1918" height="406" alt="image" src="https://github.com/user-attachments/assets/4720e2c9-9e07-41d0-a161-b863044df337" />
 
 
-##Tech Stack
+<img width="1727" height="164" alt="image" src="https://github.com/user-attachments/assets/19efa898-db2d-4afa-b0cd-f3f9c9bff8a3" />
+
+
+## Tech Stack
 
 - Python 3.11
 
