@@ -79,7 +79,17 @@ Response:
   "concat_string": "Ra"
 }
 
-🛠️ Tech Stack
+<img width="1638" height="927" alt="image" src="https://github.com/user-attachments/assets/b476e421-cad4-4dfb-9d42-fc104d2669d7" />
+
+
+API Documentation (Swagger UI)
+
+FastAPI provides interactive Swagger UI at /docs
+
+<img width="1918" height="406" alt="image" src="https://github.com/user-attachments/assets/4720e2c9-9e07-41d0-a161-b863044df337" />
+
+
+Tech Stack
 
 - Python 3.11
 
@@ -89,10 +99,7 @@ Response:
 
 - Render (deployment)
 
-<img width="1918" height="406" alt="image" src="https://github.com/user-attachments/assets/4720e2c9-9e07-41d0-a161-b863044df337" />
 
-working example
 
-<img width="1638" height="927" alt="image" src="https://github.com/user-attachments/assets/b476e421-cad4-4dfb-9d42-fc104d2669d7" />
 
 
