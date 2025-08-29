@@ -39,6 +39,10 @@ It processes input arrays to classify numbers, alphabets, and special characters
    
    Connect your repo.
 
+   
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/044e310f-5db1-4a6e-a7d6-1aab6230a77b" />
+
+
 Use:
 
    Build Command: pip install -r requirements.txt
